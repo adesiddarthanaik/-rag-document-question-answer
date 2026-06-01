@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+.venv/
+vlm_env/
+__pycache__/
+*.pyc
+
+# Data & generated artifacts
+data/vector_store/
+data/pdf/*.pdf
+!data/pdf/.gitkeep
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/

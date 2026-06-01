@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+pypdf
+pymupdf
+sentence-transformers
+chromadb
+python-dotenv
+# Optional — only needed for evaluate.py (LangSmith eval):
+# langsmith
+# openai
